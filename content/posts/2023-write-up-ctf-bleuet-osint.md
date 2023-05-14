@@ -2,7 +2,7 @@
 title: Retour sur la deuxième édition du CTF Bleuet 2023 de l'AEGE
 date: 2023-05-14
 series  : "Write-ups"
-tags: ["AEGE","Bleuet","CTF"]
+tags: ["Bleuet","CTF"]
 
 ---
 L'[AEGE](https://www.aege.fr) a proposé la seconde édition de son **[CTF "Bleuet" historique et mémoriel](https://bleuet.aege.fr/)**. Organisé par le [Club OSINT & Veille de l'AEGE,](https://www.aege.fr/groupe/club-osint-veille-18) il s'est déroulé entièrement en ligne du 5 au 14 mai 2023. Les participants ont du résoudre des énigmes contenant des informations sur des personnes ou des faits durant la seconde guerre mondiale en se basant sur des recherches en sources ouvertes (ROSO / OSINT).
